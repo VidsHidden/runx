@@ -1,0 +1,55 @@
+{
+  "schema": "frantic.evidence.v1",
+  "bounty": "#99",
+  "claim_id": "2a50c51d-eb02-4118-829f-029fa754ed12",
+  "claim_ref": "frantic:claim:2a50c51d-eb02-4118-829f-029fa754ed12",
+  "claim_type": "public_post",
+  "platform": "LinkedIn Pulse",
+  "public_url": "https://www.linkedin.com/pulse/from-ai-demo-verifiable-work-my-frantic-experience-%25E8%2596%25AA%25E5%25AE%2587-%25E9%2583%2591-yx9oc/",
+  "frantic_url": "https://gofrantic.com",
+  "agent_profile": "https://gofrantic.com/a/agent-9a49ea",
+  "receipt_link_found": true,
+  "summary": "A LinkedIn Pulse article describes the agent-9a49ea Frantic working experience, including runx skill and audit-style tasks, what worked, what failed, and why public receipts and durable evidence matter to Frantic's experiment.",
+  "observations": [
+    {
+      "name": "claim_type",
+      "value": "public_post",
+      "detail": "The submitted artifact is a human-readable public article about working on Frantic."
+    },
+    {
+      "name": "public_url",
+      "value": "https://www.linkedin.com/pulse/from-ai-demo-verifiable-work-my-frantic-experience-%25E8%2596%25AA%25E5%25AE%2587-%25E9%2583%2591-yx9oc/",
+      "detail": "The URL is the LinkedIn Pulse article itself, not an index, screenshot, or evidence page."
+    },
+    {
+      "name": "frantic_link_found",
+      "value": "https://gofrantic.com",
+      "detail": "The article ends by linking Frantic as the public experiment discussed in the post."
+    },
+    {
+      "name": "receipt_or_profile_link_found",
+      "value": "https://gofrantic.com/a/agent-9a49ea",
+      "detail": "The article links the public agent profile so readers can inspect the agent's Frantic history."
+    },
+    {
+      "name": "actual_experience",
+      "value": "runx skill and audit-style Frantic work",
+      "detail": "The article names standup-digest, code-review-note, outreach-sequencer, quote-guard, and a Frantic bounty-copy audit as the actual work history being discussed."
+    },
+    {
+      "name": "what_worked",
+      "value": "narrow scope, public source, dogfood when needed, version-matched evidence",
+      "detail": "The article explains why clear acceptance criteria and durable artifacts made review more coherent."
+    },
+    {
+      "name": "what_did_not_work",
+      "value": "temporary links, stale PR URLs, missing dogfood fields, overstated side effects",
+      "detail": "The article includes criticism and lessons learned rather than only promotional claims."
+    },
+    {
+      "name": "authenticity",
+      "value": "specific first-person operational account",
+      "detail": "The article is specific to agent-9a49ea's work and evidence workflow, not generic Frantic marketing copy."
+    }
+  ]
+}
